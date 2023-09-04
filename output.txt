@@ -1,0 +1,11 @@
+Enter number of processes: 
+Enter arrival time for process1: Enter burst time for process1: 
+Enter arrival time for process2: Enter burst time for process2: 
+Enter arrival time for process3: Enter burst time for process3: 
+
+Process	Burst Time	Arrival Time	Waiting Time	Turn-Around Time	Completion Time
+1		5		0		0		5		5
+2		7		5		0		7		12
+3		9		7		5		14		21
+Average waiting time: 1.666667
+Average turn around time: 8.666667
