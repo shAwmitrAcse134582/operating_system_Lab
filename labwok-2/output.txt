@@ -1,0 +1,7 @@
+Enter frame size: - - - 
+Enter the number of references: Fault for 20 | 20 - - 
+Fault for 7 | 20 7 - 
+Fault for 0 | 20 7 0 
+
+Number of faults: 3 
+Number of hits: 0
